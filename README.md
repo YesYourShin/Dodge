@@ -6,7 +6,7 @@
 
 ---
 ## 1. 概要
-![dodge image](https://user-images.githubusercontent.com/53047744/172034205-306d186c-b1c7-4286-a5c6-96f2065fc906.png)
+![dodge image](https://user-images.githubusercontent.com/53047744/172034205-306d186c-b1c7-4286-a5c6-96f2065fc906.png)  
 白いボールを方向キーに操作して、画面の中を移動する赤いボールを避けて、長く生き残るゲーム。  
 画面の上にある数字は生き残った時間を表示するタイマー。  
 タイマーが5秒、10秒になったらボールのスピードが速くなる。  
